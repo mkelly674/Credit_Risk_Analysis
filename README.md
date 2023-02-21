@@ -6,15 +6,27 @@ The give task is simple, run some machine learning algorithms and see which had 
 ### Resampling
 - Random Oversampling
 
+![Naive_Random_Oversampling_data](https://user-images.githubusercontent.com/114030563/220469446-324a2365-7d25-4709-89a4-048e647f7518.png)
+
 - SMOTE Oversampling
+
+![SMOTE_Oversampling_data](https://user-images.githubusercontent.com/114030563/220469753-7e3029d3-31a4-4caf-b011-3ab3623ee0ed.png)
 
 - Undersampling
 
+![Undersampling_data](https://user-images.githubusercontent.com/114030563/220469668-d4a04390-987b-4655-a929-90dffb7aef09.png)
+
 - Combination (Over and Under) Sampling
+
+![Combination_sampling_data](https://user-images.githubusercontent.com/114030563/220469698-0019fc32-4353-4ce3-b7be-814b180f7e8d.png)
 
 ### Ensemble
 - Balanced Random Forest Classifier (BRFC)
 
+![Balanced_Random_Forest_Classifier_data](https://user-images.githubusercontent.com/114030563/220469625-a82ff7cd-1c5c-4d50-9359-1a3d5789ab40.png)
+
 - Easy Ensemble AdaBoost Classifier (EEC)
+
+![Easy_Ensemble_data](https://user-images.githubusercontent.com/114030563/220469542-ec7a29b9-f05a-4076-9944-ac27bb8aa5e3.png)
 
 ## Summary
