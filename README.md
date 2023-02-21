@@ -12,9 +12,9 @@ The give task is simple, run some machine learning algorithms and see which had 
 
 - Combination (Over and Under) Sampling
 
-### ensemble
-- Balanced Random Forest Classifier (brfc)
+### Ensemble
+- Balanced Random Forest Classifier (BRFC)
 
-- Easy Ensemble AdaBoost Classifier (eec)
+- Easy Ensemble AdaBoost Classifier (EEC)
 
 ## Summary
