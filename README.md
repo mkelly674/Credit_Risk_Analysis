@@ -17,4 +17,4 @@ The give task is simple, run some machine learning algorithms and see which had 
 
 - Easy Ensemble AdaBoost Classifier (eec)
 
-##Summary
+## Summary
