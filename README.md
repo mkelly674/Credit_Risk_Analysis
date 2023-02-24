@@ -35,3 +35,4 @@ This is the second highest recall. This means that it has a very good percision 
 Easy Ensemble with the AdaBoost Classifier has the highest recall out of all the other machine learning algorithms. This helps with the F1 column when we calculate it.
 
 ## Summary
+I would only recommend the Ensemble algorithms for evaluting the credit risk because of how it was able to get true positives and get the best overall F1 scores. Although they are all needed to be desired with the percision on high credit risk, the high recall of the two Ensemble algorithms is very promising. I would still try to find a better algorithm to get more percision.
