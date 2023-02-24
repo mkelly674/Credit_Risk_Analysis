@@ -3,7 +3,7 @@
 The give task is simple, run some machine learning algorithms and see which had the more percise and accurate measures for low and high risk loans based on credit. There were 6 that were tested for this task. These were split up between the resampled and ensembled machine learning algorithms. There were 4 resampled algorithms and 2 ensembled algorithms.
 
 ## Results
-They were all percise on low risk credit evalution. 
+They were all percise on low risk credit evalution. They were all very inpercise with high risk cedit below 10% of the time. 
 ### Resampling
 - Random Oversampling
 
