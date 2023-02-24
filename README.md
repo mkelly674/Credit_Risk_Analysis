@@ -9,6 +9,8 @@ They were all percise on low risk credit evalution. They were all very inpercise
 
 ![Naive_Random_Oversampling_data](https://user-images.githubusercontent.com/114030563/220469446-324a2365-7d25-4709-89a4-048e647f7518.png)
 
+While it has one of the highest recalls for resampling in the high risk category, it is still has a low F1 score compared to the SMOTE algorithm in the low risk credit category.
+
 - SMOTE Oversampling
 
 ![SMOTE_Oversampling_data](https://user-images.githubusercontent.com/114030563/220469753-7e3029d3-31a4-4caf-b011-3ab3623ee0ed.png)
