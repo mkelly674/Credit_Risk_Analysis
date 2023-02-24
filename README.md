@@ -13,6 +13,8 @@ They were all percise on low risk credit evalution. They were all very inpercise
 
 ![SMOTE_Oversampling_data](https://user-images.githubusercontent.com/114030563/220469753-7e3029d3-31a4-4caf-b011-3ab3623ee0ed.png)
 
+This is the only one within the resampling algorithms that has some promising results in the F1 category for low risk. It still has some errors to correct but it can improve over time.
+
 - Undersampling
 
 ![Undersampling_data](https://user-images.githubusercontent.com/114030563/220469668-d4a04390-987b-4655-a929-90dffb7aef09.png)
