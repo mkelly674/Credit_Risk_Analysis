@@ -26,6 +26,8 @@ They were all percise on low risk credit evalution. They were all very inpercise
 
 ![Balanced_Random_Forest_Classifier_data](https://user-images.githubusercontent.com/114030563/220469625-a82ff7cd-1c5c-4d50-9359-1a3d5789ab40.png)
 
+This is the second highest recall. This means that it has a very good percision on a what are true positives. 
+
 - Easy Ensemble AdaBoost Classifier (EEC)
 
 ![Easy_Ensemble_data](https://user-images.githubusercontent.com/114030563/220469542-ec7a29b9-f05a-4076-9944-ac27bb8aa5e3.png)
