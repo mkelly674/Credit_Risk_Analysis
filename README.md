@@ -27,6 +27,8 @@ This has one of the lowest recalls for low risk samplings and has the lowest F1 
 
 ![Combination_sampling_data](https://user-images.githubusercontent.com/114030563/220469698-0019fc32-4353-4ce3-b7be-814b180f7e8d.png)
 
+With the Combination algorithm for sampling, it seems that it leans more towards the oversampling algorithm than the undersampling algorithm. The numbers on the result are just a few points away from each other.
+
 ### Ensemble
 - Balanced Random Forest Classifier (BRFC)
 
