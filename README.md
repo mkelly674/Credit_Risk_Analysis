@@ -17,6 +17,8 @@ They were all percise on low risk credit evalution. They were all very inpercise
 
 ![Undersampling_data](https://user-images.githubusercontent.com/114030563/220469668-d4a04390-987b-4655-a929-90dffb7aef09.png)
 
+This has one of the lowest recalls for low risk samplings and has the lowest F1 in both categories.
+
 - Combination (Over and Under) Sampling
 
 ![Combination_sampling_data](https://user-images.githubusercontent.com/114030563/220469698-0019fc32-4353-4ce3-b7be-814b180f7e8d.png)
