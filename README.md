@@ -30,4 +30,6 @@ They were all percise on low risk credit evalution. They were all very inpercise
 
 ![Easy_Ensemble_data](https://user-images.githubusercontent.com/114030563/220469542-ec7a29b9-f05a-4076-9944-ac27bb8aa5e3.png)
 
+Easy Ensemble with the AdaBoost Classifier has the highest recall out of all the other machine learning algorithms. This helps with the F1 column when we calculate it.
+
 ## Summary
